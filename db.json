@@ -1,0 +1,28 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "text": "App Navbar",
+            "deadline": "05.06.2024",
+            "status": "OPEN"
+          },
+          {
+            "id": 2,
+            "text": "Define Models Structure",
+            "deadline": "29.05.2024",
+            "status": "OPEN"
+          },
+          {
+            "id": 3,
+            "text": "DB Connection",
+            "deadline": "12.6.2024",
+            "status": "OPEN"
+          },
+          {
+            "id": 4,
+            "text": "test Connection",
+            "deadline": "12.6.2024",
+            "status": "OPEN"
+          }
+    ]
+  }
